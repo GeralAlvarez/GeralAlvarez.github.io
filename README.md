@@ -25,7 +25,7 @@ En el pie de página de la web, encontrarás los siguientes enlaces:
 
 ## Cómo Ver el Portafolio
 
-Puedes ver el portafolio en vivo en el siguiente enlace: [https://geralalvarez.github.io/](https://geralalvarez.github.io/)
+Puedes ver el portafolio en vivo en el siguiente enlace: [https://GeralAlvarez.github.io/](https://GeralAlvarez.github.io/)
 
 
 
